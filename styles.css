@@ -1,25 +1,8 @@
 /*  your css code here. If applicable */
-h1 {
-            text-align: center;
-        }
-
         img {
             height: 300px;
             display: block;
             margin: 0 auto;
-        }
+		}
 
-        p {
-            text-align: center;
-            font-weight: bold;
-        }
-
-        ul {
-            list-style-type: none;
-            text-align: center;
-            padding: 0;
-        }
-
-        li {
-            margin: 5px 0;
-        }
+       
